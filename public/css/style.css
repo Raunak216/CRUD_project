@@ -1,0 +1,31 @@
+body{
+    background-color: #F4F3F1;
+}
+
+.card{
+    border: none !important;
+    margin-top: 1rem !important;
+    margin-bottom: 2rem !important;
+
+}
+
+.card-img-top{
+    object-fit: contain !important;
+    border-radius: 1rem !important;
+}
+
+.card-body{
+    padding: 0rem !important;
+}
+
+.student-links{
+    text-decoration: none !important;
+    
+}
+.card-img-overlay{
+    opacity: 0 !important;
+}
+.card-img-overlay:hover{
+    opacity: 0.2 !important;
+    background-color: white;
+} */
